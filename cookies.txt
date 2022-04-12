@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+infodor.expert	TRUE	/	FALSE	1999999999	ipp_uid	1647953792412/eoIevu6t21YKRwe0/EWP6IFicxVPUg1oT9ynhJQ==
+infodor.expert	TRUE	/	FALSE	1999999999	rerf	AAAAAGI5x4CAbnu5BfWyAg==
+
